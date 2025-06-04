@@ -1,9 +1,12 @@
-import React from 'react'
+// pages/Clients.jsx
+import React from "react";
 
-function Clients() {
+const Clients = () => {
   return (
-    <div>Clients</div>
-  )
-}
+    <div className="text-white text-2xl font-semibold text-center mt-20">
+      👤 Tableau des Clients (باقي نخدموه)
+    </div>
+  );
+};
 
-export default Clients
+export default Clients;

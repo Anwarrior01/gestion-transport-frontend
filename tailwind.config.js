@@ -5,4 +5,8 @@ export default {
     extend: {},
   },
   plugins: [],
+  fontFamily: {
+  cairo: ['Cairo', 'sans-serif'],
+},
+
 }
